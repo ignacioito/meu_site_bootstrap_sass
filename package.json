@@ -1,0 +1,24 @@
+{
+  "name": "meu_site_bootstrap_sass",
+  "version": "1.0.0",
+  "description": "site utilizando bootstrap com sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignacioito/meu_site_bootstrap_sass.git"
+  },
+  "author": "Ignacio Ito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignacioito/meu_site_bootstrap_sass/issues"
+  },
+  "homepage": "https://github.com/ignacioito/meu_site_bootstrap_sass#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
